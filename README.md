@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/abhishekh-prajapati/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Two Pointers
@@ -18,13 +19,23 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

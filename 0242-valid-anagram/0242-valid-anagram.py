@@ -2,7 +2,8 @@ class Solution(object):
     def isAnagram(self, s, t):
         if len(s) != len(t):
             return False
-        for saloni in s:
-            if s.count(saloni) != t.count(saloni):
+        for i in s:
+            if s.count(i) != t.count(i):
                 return False
         return True 
+

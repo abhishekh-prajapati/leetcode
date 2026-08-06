@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/abhishekh-prajapati/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -45,6 +46,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/abhishekh-prajapati/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |

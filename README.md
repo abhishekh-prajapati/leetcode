@@ -51,5 +51,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/abhishekh-prajapati/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/abhishekh-prajapati/leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->

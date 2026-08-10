@@ -57,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/abhishekh-prajapati/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/abhishekh-prajapati/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0520-detect-capital](https://github.com/abhishekh-prajapati/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/abhishekh-prajapati/leetcode/tree/main/0709-to-lower-case/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

@@ -6,4 +6,3 @@ class Solution(object):
             num += i
             output.append(num)
         return output
-        

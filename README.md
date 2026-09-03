@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abhishekh-prajapati/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0605-can-place-flowers](https://github.com/abhishekh-prajapati/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekh-prajapati/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/abhishekh-prajapati/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -79,4 +80,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/abhishekh-prajapati/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abhishekh-prajapati/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/abhishekh-prajapati/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0605-can-place-flowers](https://github.com/abhishekh-prajapati/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekh-prajapati/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -30,6 +31,7 @@
 | [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/abhishekh-prajapati/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/abhishekh-prajapati/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

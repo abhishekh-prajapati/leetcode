@@ -39,6 +39,7 @@
 | [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/abhishekh-prajapati/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/abhishekh-prajapati/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/abhishekh-prajapati/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@
 | [0058-length-of-last-word](https://github.com/abhishekh-prajapati/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/abhishekh-prajapati/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/abhishekh-prajapati/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/abhishekh-prajapati/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/abhishekh-prajapati/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/abhishekh-prajapati/leetcode/tree/main/0520-detect-capital/) | Easy |

@@ -42,6 +42,7 @@
 | [0290-word-pattern](https://github.com/abhishekh-prajapati/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/abhishekh-prajapati/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/abhishekh-prajapati/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | [0290-word-pattern](https://github.com/abhishekh-prajapati/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/abhishekh-prajapati/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/abhishekh-prajapati/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/abhishekh-prajapati/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/abhishekh-prajapati/leetcode/tree/main/0709-to-lower-case/) | Easy |
@@ -91,4 +94,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/abhishekh-prajapati/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->

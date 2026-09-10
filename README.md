@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/abhishekh-prajapati/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/abhishekh-prajapati/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/abhishekh-prajapati/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/abhishekh-prajapati/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/abhishekh-prajapati/leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@
 | [0344-reverse-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/abhishekh-prajapati/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/abhishekh-prajapati/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/abhishekh-prajapati/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/abhishekh-prajapati/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/abhishekh-prajapati/leetcode/tree/main/0709-to-lower-case/) | Easy |
@@ -98,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/abhishekh-prajapati/leetcode/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->

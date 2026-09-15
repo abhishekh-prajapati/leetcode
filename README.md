@@ -13,6 +13,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/abhishekh-prajapati/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0605-can-place-flowers](https://github.com/abhishekh-prajapati/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/abhishekh-prajapati/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekh-prajapati/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/abhishekh-prajapati/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -45,6 +46,7 @@
 | [0383-ransom-note](https://github.com/abhishekh-prajapati/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekh-prajapati/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/abhishekh-prajapati/leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/abhishekh-prajapati/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

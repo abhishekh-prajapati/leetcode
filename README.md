@@ -13,6 +13,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/abhishekh-prajapati/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0605-can-place-flowers](https://github.com/abhishekh-prajapati/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0704-binary-search](https://github.com/abhishekh-prajapati/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/abhishekh-prajapati/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekh-prajapati/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0704-binary-search](https://github.com/abhishekh-prajapati/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

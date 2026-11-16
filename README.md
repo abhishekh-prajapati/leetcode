@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/abhishekh-prajapati/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/abhishekh-prajapati/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/abhishekh-prajapati/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -58,6 +59,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/abhishekh-prajapati/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/abhishekh-prajapati/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/abhishekh-prajapati/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -100,6 +102,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhishekh-prajapati/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/abhishekh-prajapati/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |

@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/abhishekh-prajapati/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abhishekh-prajapati/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -61,6 +62,7 @@
 | [0035-search-insert-position](https://github.com/abhishekh-prajapati/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/abhishekh-prajapati/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekh-prajapati/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/abhishekh-prajapati/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekh-prajapati/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/abhishekh-prajapati/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
